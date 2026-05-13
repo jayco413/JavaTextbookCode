@@ -1,0 +1,10 @@
+# Expected Output
+
+```text
+The Rogue defeated a monster using Stealth Attack with 12 damage!
+The Wizard defeated a monster using Blast with 18 damage!
+The Fighter defeated a monster using Brute Force with 14 damage!
+The Barbarian defeated a monster using Rage Attack with 13 damage!
+The Knight defeated a monster using Sword Mastery with 17 damage!
+The Elf defeated a monster using Multi-Arrow Attack with 20 damage!
+```

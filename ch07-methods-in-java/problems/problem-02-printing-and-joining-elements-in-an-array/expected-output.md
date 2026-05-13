@@ -1,0 +1,9 @@
+# Expected Output
+
+```text
+How large is your array? 5
+Enter your array: 0 2 4 6 8
+Enter your separator character: &
+Join: 0&2&4&6&8
+Print: 0,2,4,6,8
+```

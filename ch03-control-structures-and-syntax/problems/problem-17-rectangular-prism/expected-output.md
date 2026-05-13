@@ -66,7 +66,7 @@ Front View (2 x 3):
 ```text
 Enter three integers: 2 3 1
 
-Surface Area:  25
+Surface Area:  22
 Volume      :   6
 
 Top View (2 x 3):
