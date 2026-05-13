@@ -1,11 +1,10 @@
 # JavaTextbookCode
 
-This repository holds student-facing Java code referenced by textbook problems.
+This repository holds student-facing Java code referenced by the textbook.
 
-Recommended layout:
+Current layout:
 
-- `src/chapters/chXX/problem-YY/`: source files tied to a textbook problem.
-- `src/shared/`: reusable support code shared across chapters.
-- `scripts/Test-Code.ps1`: compile validation for all tracked Java sources.
+- `examples/`: Java examples shown directly in the text
+- `problems/`: expected output reference files for each textbook problem
 
-Run validation with `pwsh ./scripts/Test-Code.ps1`.
+Chapter 3 is currently loaded in this simplified layout.
