@@ -1,0 +1,6 @@
+# Expected Output
+
+```text
+Enter an integer: 5000101
+Digits: 7
+```

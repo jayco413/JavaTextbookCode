@@ -1,0 +1,6 @@
+# Expected Output
+
+```text
+Enter a binary number : 1111111
+Decimal conversion    : 127
+```

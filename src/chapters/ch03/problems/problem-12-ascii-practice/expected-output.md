@@ -1,0 +1,20 @@
+# Expected Output
+
+```text
+Please enter a string: javaprogramming
+Your string is too long, please try again.
+
+Please enter a string: javaclass
+
+j = 106
+a = 97
+v = 118
+a = 97
+c = 99
+l = 108
+a = 97
+s = 115
+s = 115
+
+Average: i = 105
+```

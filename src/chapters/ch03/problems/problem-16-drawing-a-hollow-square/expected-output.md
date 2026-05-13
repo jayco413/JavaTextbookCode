@@ -1,0 +1,23 @@
+# Expected Output
+
+## Side Length Greater Than 1
+
+```text
+Please enter a side length (1 - 10): 14
+Invalid input.
+Please enter a side length (1 - 10): 5
+
+*****
+*   *
+*   *
+*   *
+*****
+```
+
+## Side Length Equal to 1
+
+```text
+Please enter a side length (1 - 10): 1
+
+*
+```

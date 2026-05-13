@@ -1,0 +1,10 @@
+# Expected Output
+
+```text
+Please enter two integers: 4 7
+4 + 7 = 11
+4 - 7 = -3
+4 * 7 = 28
+4 / 7 = 0
+4 % 7 = 4
+```
