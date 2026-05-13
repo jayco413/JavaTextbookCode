@@ -12,6 +12,8 @@ Current layout:
 Current chapter folders:
 
 - `ch03-control-structures-and-syntax/`
+- `ch04-debugging-practices/`
+- `ch05-array-basics/`
 - `ch07-methods-in-java/`
 - `ch15-inheritance-and-composition/`
 - `ch17-gui-basics/`
